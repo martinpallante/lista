@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+
+</channel>
+<channel>
+<name>[COLOR=blue]// Lista LMPC //Actualizado// 26 Marzo 2016[/COLOR] </name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</channel>
+</channel>
+<channel>
+<name>[COLOR=red]----------------------------------------------------------------------------------[/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</channel>
+
+
+<channel>
+
+<name>[COLOR=green]Canales Canal +[/COLOR]</name>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8Z-bYEJ8V4tvvMEKA3_7ivvwvCAcqHy5fbE13WUun6Y875q4Pkg</thumbnail>
+<fanart>/var/media/Shared/extras/xml/logos/fanartplus.jpg</fanart>
+<items>
+
+<item>
+<title>Canal +0</title>
+<sportsdevil>http://verdirectotv.net/tv/digitales/plus.html</sportsdevil>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8Z-bYEJ8V4tvvMEKA3_7ivvwvCAcqHy5fbE13WUun6Y875q4Pkg</thumbnail>
+<referer>http://verdirectotv.com/</referer>
+</item>
+
+</channel>
+
+<channel>
+    
+<name>[COLOR=orange]Canales Cine[/COLOR]</name>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT39gwmMviVxm1jH9GdmDvN1I9QFLUap2cWLLfoXCQIPQ23z94H</thumbnail>
+<fanart>/var/media/Shared/extras/xml/logos/cinemascraper.jpg</fanart>
+<items>
+   
+<item><title>Canal Accion</title><link>http://cdn.sstream.pw/live/accion_aqtvoax/playlist.m3u8|Referer=http://tv.verdirectotv.org/embed.php?c=105454&amp;width=650&amp;height=400&amp;autostart</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQffam-G84hfc22nNOXnV0DDKic2Q99BxSI6rdVNK6xaUpxsiIf</thumbnail>
+</item>
+
+<item>
+<title>AXN White</title>
+<link>http://cdn.sstream.pw/live/axnwhite_aap5cqs/playlist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link>
+<thumbnail>http://tbivision.com/wp-content/uploads/2013/07/AXN_white-2-460x252.jpg</thumbnail>
+</item>
+
+<item>
+<title>Canal + Comedia</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-comedia.php</sportsdevil>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSe7w1zONCcs3qTmCUzCgFzy21_57XfBjrPlDtm4Ry2rLUdAg9C</thumbnail>
+<referer>http://verdirectotv.com/</referer>
+</item>
+             
+<item><title>Dcine</title><link>http://cdn.sstream.pw/live/dcine_aqtwogc/playlist.m3u8|Referer=http://tv.verdirectotv.org/embed.php?c=105456&amp;width=650&amp;height=400&amp;autostart</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWqwSNbjiFAsbCLH_C1j1jDRrq1dKgQ-qLsjYgfrRh2q14nt_a</thumbnail>
+
+</item>
+ 
+<item>
+<title>hollywood</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/holliwood.php</sportsdevil>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdzOjobYJ5YIsyO8YqC7T_jJkaQAiWRiRhenFcay3sfT-bWZXgtw</thumbnail>
+<referer>http://verdirectotv.com/</referer>
+</item>
+
+<item>
+<title>Paramount Channel</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/p-channel.php</sportsdevil>
+<thumbnail>http://static1.appsda.com/ios-screenshot/paramountchannelhd_4fb75fe2c4bcf_full.jpg</thumbnail>
+<referer>http://verdirectotv.com/</referer>
+</item>
+
+<item>
+<title>Fox Life</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/foxcrime.php</sportsdevil>
+https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPOaDzD6V6YCoYjlLl1075FTIosmiQIkSyBWU3jmPY-PTUkhbO
+<referer>http://verdirectotv.com/</referer>
+<thumbnail>http://tvimages.burrp.com/images/channels2/entertainment/Fox-Life-HD.png</thumbnail>
+</item>
+
+</channel>
+    
+<channel>
+    
+<name>[COLOR=green]Canales Series[/COLOR]</name>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT39gwmMviVxm1jH9GdmDvN1I9QFLUap2cWLLfoXCQIPQ23z94H</thumbnail>
+<fanart>/var/media/Shared/extras/xml/logos/fanartentretenimiento.jpg</fanart>
+
+<item><title>Canal+ Series</title><link>http://cdn.sstream.pw/live/plusseries_al1oyrq/playlist.m3u8|Referer=http://tv.verdirectotv.org/embed.php?c=105333&amp;width=650&amp;height=400&amp;autostart</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF-AUZn83i6jE35VpKhIK39Ra6SmUqwI-Gr4Iki_EFvJH4HtOi</thumbnail>
+</item>
+
+
+<item><title>AXN</title><link>http://cdn.sstream.pw/live/axn_alwla94/playlist.m3u8|Referer=http://tv.verdirectotv.org/embed.php?c=105369&amp;width=650&amp;height=400&amp;autostart</link>
+<thumbnail>http://3.bp.blogspot.com/-tRqvXnGOgdI/TnXy152XlUI/AAAAAAAAAfY/wUVin-FOoxw/s1600/t_axn.jpg</thumbnail>
+</item>
+
+
+
+<item><title>TNT</title><link>http://cdn.sstream.pw/live/tnt_alwl3qm/playlist.m3u8|Referer=http://tv.verdirectotv.org/embed.php?c=105368&amp;width=650&amp;height=400&amp;autostart</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKiGrLAAt18STWod9DLtrJB4b20OnDANkhEfMJzC5FYcQcLywAIA</thumbnail>
+</item>
+
+
+
+<item>
+<title>Calle13</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/calle13.php</sportsdevil>
+<thumbnail>http://www.adslzone.tv/app/uploads/2010/08/Dibujo9.jpg</thumbnail>
+<referer>http://verdirectotv.com/</referer>
+</item>
+
+<item><title>Fox</title><link>http://cdn.sstream.pw/live/fox_alwk17k/playlist.m3u8|Referer=http://tv.verdirectotv.org/embed.php?c=105363&amp;width=650&amp;height=400&amp;autostart</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb8P03PvXY6p8h7uLhB1nlbeweabDcF2UuNXEpejWB3oqczGxj4A</thumbnail>
+</item>
+
+
+<item>
+<title>Mega</title>
+<link>http://cdn.sstream.pw/live/megatdt_9o35160/playlist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link>
+<thumbnail>http://img02.lavanguardia.com/2015/05/28/Logotipo-de-Mega-el-nuevo-cana_54431936571_54028874188_960_639.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>Cosmo</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/cosmo.php</sportsdevil>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbt6u17FzrkmiaCheOrEuca-5eC8QKcPB5f4Qm5exmluttEjQw</thumbnail>
+<referer>http://verdirectotv.com/</referer>
+</item>
+
+<item>
+<title>Syfy</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/syfy.php</sportsdevil>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1P8JTpWLF9WCRrlX7yF_frBz0O79s9KV1qHWp-NspGIX6YSshaw</thumbnail>
+<referer>http://verdirectotv.com/</referer>
+</item>
+ 
+</items>
+
+ </channel>
+
+<channel>
+    
+<name>[COLOR=orange]Canales Culturales[/COLOR]</name>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtd2g9ZUuYflPK0_ixkm6qOqZqh7C3OoYpiKJbCzMoZtj4hYjTng</thumbnail>
+<fanart>/var/media/Shared/extras/xml/logos/fanartdocumentales.jpg</fanart>
+<items>
+    
+<item>
+<item><title>Discovery Max</title><link>http://cdn.sstream.pw/live/dismax_9c7n25t/playlist.m3u8|Referer=http://tv.verdirectotv.org/embed.php?c=103893&amp;width=650&amp;height=400&amp;autostart</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSqWnVw2Z8BualVXr9ifuqLkARFKswkm14r1SdboU_lprjo1aCzg</thumbnail>
+
+</item>
+
+<item><title>Discovery</title><link>http://cdn.sstream.pw/live/discoverydino_9dm3fgv/playlist.m3u8|Referer=http://tv.verdirectotv.org/embed.php?c=103946&amp;width=650&amp;height=400&amp;autostart</link>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1cqQ1hYgj7N1QY4zZWvuZC_bn5BmbZIzJsqJhXlJn_OD5zA9skA</thumbnail>
+
+</item>
+
+<item><title>Historia</title><link>http://cdn.sstream.pw/live/historia_9dm8skt/playlist.m3u8|Referer=http://tv.verdirectotv.org/embed.php?c=103957&amp;width=650&amp;height=400&amp;autostart</link>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrUib024j8BITIUw1yu5myhqAnta_xULllcQlqz1vo1WZvjBTf</thumbnail>
+</item>
+
+
+<item>
+<title>National Geographic</title>
+<link>http://cdn.sstream.pw/live/national_alwka53/playlist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRudrkqc6R2elGAAx0cTqnoLwTkYqShrpl1Wntnhv8ygcTeefZFmQ</thumbnail>
+</item>
+
+<item>
+<title>Canal Cocina</title>
+<sportsdevil>http://cinestrenostv.tv/canales/documentales/cocina.php</sportsdevil>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8ooPEmT3BfjfuMxwS28YyKuCnn3H_4u9naceu-pZae8qU9tRNuA</thumbnail>
+<referer>http://verdirectotv.com</referer>
+</item>
+
+<item><title>MTV</title><link>http://cdn.sstream.pw/live/mtv_alwkh45/playlist.m3u8|Referer=http://tv.verdirectotv.org/embed.php?c=105365&amp;width=650&amp;height=400&amp;autostart</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCIi5rYNVJKmOOzPIKRd7QhDsQ8cUf34axbYG0ljKpAKH2nITQ</thumbnail>
+</item>
+
+</channel>
+
+<channel>
+<name>[COLOR=green]Canales Deportes[/COLOR]</name>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxL0O6v_tm-keSz4qQXFJLUrfJHYjJSBLMz-msEa8SakCVKQ-6zg</thumbnail>
+<fanart>/var/media/Shared/extras/xml/logos/fanartdeportes.jpg</fanart>
+<items>
+
+<item>
+<title>Canal Liga</title>
+<link>http://cdn.sstream.pw/live/tvb111/playlist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link><thumbnail></thumbnail>
+</item>		
+ 		
+<item>
+<title>Canal Futbol</title>
+<link>http://cdn.sstream.pw/live/tvb112/playlist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link><thumbnail></thumbnail>
+</item>	
+
+<item><title> Bein Sports España </title>
+<sportsdevil>http://cinestrenostv.tv/canales/emision/beinsport.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer><thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Espn +<title>
+<sportsdevil>http://soloveodeportes.co/espnmas.html</sportsdevil>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdTaDDdM8Ramweao64GX5fTTWxhWmp1NldvwMGBYQ_u9hiYHAXGQ</thumbnail>
+<referer>http://soloveodeportes.co</referer>
+</item>		
+
+
+<item>
+<title>Canal Plus Liga   </title>
+<link>rtmp://nl.iguide.to/iguide playpath=nkmbihjxj5lmd5b swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
+<thumbnail></thumbnail>
+</item> 	
+
+
+
+<item><title>Canal Fútbol</title><link>http://cdn.sstream.pw/live/tvb112/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=112&amp;width=650&amp;height=400&amp;autostart</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRREgYeoH0PKG0XdFC4ke8hvfKPaggp-M4CbTlmhl3DNZAKCQ37ZQ</thumbnail>
+</item>
+
+
+<item>
+<title>Canal + Deportes</title>
+<sportsdevil>http://verdirectotv.com/tv/deportes/plusdeportes.html</sportsdevil>
+<thumbnail>http://4.bp.blogspot.com/_DBACF42-Lcg/TIZpYCFbDQI/AAAAAAAAAPw/_LKGah8Y3-8/s1600/c+deportes.jpg</thumbnail></thumbnail>
+<referer>http://verdirectotv.com</referer>
+</item>
+
+<item><title> Moto GP </title>
+<sportsdevil>http://verlatelegratis.net/canales/motogp.php</sportsdevil>
+<referer>http://verlatelegratis.net</referer><thumbnail></thumbnail>
+</item>
+
+item><title>Formula 1 </title>
+<sportsdevil>http://cinestrenostv.tv/canales/emision/formula1.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer><thumbnail></thumbnail>
+</item>
+
+<item><title>Formula 1 </title>
+<sportsdevil>http://telefivegb.com/canales/116.php</sportsdevil>
+<referer>http://telefivegb.com</referer><thumbnail></thumbnail>
+</item>
+<item>
+
+<item>
+<title>Deportes 1 //on-line//Principales eventos del dia </title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72400',False,False,'http://vipracing.info/')</expres>
+<page></page>
+</regex>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfXbRyXNmWNqA5agaFSGyfKMzt-nqmJ_FgEDU5yGtaC9qbpHZ5</thumbnail>
+</item>	
+
+<item>
+<title>Deportes 2 //on-line//Principales eventos del dia </title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=53681',False,False,'http://vipracing.info/')</expres>
+<page></page>
+</regex>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfXbRyXNmWNqA5agaFSGyfKMzt-nqmJ_FgEDU5yGtaC9qbpHZ5</thumbnail>
+</item>	
+
+			
+<item>
+<title>Deportes 3 //on-line//Principales eventos del dia </title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=53682',False,False,'http://vipracing.info/')</expres>
+<page></page>
+</regex>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfXbRyXNmWNqA5agaFSGyfKMzt-nqmJ_FgEDU5yGtaC9qbpHZ5</thumbnail>
+</item>	
+
+			
+<item>
+<title>Deportes 4 //on-line//Principales eventos del dia </title> 
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71391',False,False,'http://vipracing.info/')</expres>
+<page></page>
+</regex>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfXbRyXNmWNqA5agaFSGyfKMzt-nqmJ_FgEDU5yGtaC9qbpHZ5</thumbnail>
+</item>	
+			
+<item>
+<title>Deportes 5 //on-line//Principales eventos del dia </title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71393',False,False,'http://vipracing.info/')</expres>
+<page></page>
+</regex>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfXbRyXNmWNqA5agaFSGyfKMzt-nqmJ_FgEDU5yGtaC9qbpHZ5</thumbnail>
+</item>	
+
+<item>
+<title>Deportes 6 //on-line//Principales eventos del dia </title> 
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71395',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfXbRyXNmWNqA5agaFSGyfKMzt-nqmJ_FgEDU5yGtaC9qbpHZ5</thumbnail>
+</item>		
+			
+			
+<item>
+<title>Deportes 7 //on-line//Principales eventos del dia </title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71396',False,False,'http://vipracing.info/')</expres>
+<page></page>
+</regex>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfXbRyXNmWNqA5agaFSGyfKMzt-nqmJ_FgEDU5yGtaC9qbpHZ5</thumbnail>
+</item>
+
+		
+<item>
+<title>Deportes 8 //on-line//Principales eventos del dia </title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71996',False,False,'http://vipracing.info/')</expres>
+<page></page>
+</regex>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfXbRyXNmWNqA5agaFSGyfKMzt-nqmJ_FgEDU5yGtaC9qbpHZ5</thumbnail>
+</item>
+
+				
+			
+<item>
+<title>Deportes 9 //on-line//Principales eventos del dia </title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72002',False,False,'http://vipracing.info/')</expres>
+<page></page>
+</regex>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfXbRyXNmWNqA5agaFSGyfKMzt-nqmJ_FgEDU5yGtaC9qbpHZ5</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+<channel>
+    
+<name>[COLOR=red]----------------------------------------------------------------------------------[/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+    
+<name>[COLOR=red]!!!Si el canal no responde probar 3 veces como mínimo!!![/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+
+<name>[COLOR=red]!!!Los canales pueden NO estar on-line las 24 horas !!![/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+
+</channel>
+<channel>
+    
+<name>[COLOR=red]!!!Importante y Necesario Addons: (SportsDevil) P2P y Libreria librtmp Shani-08  actualizada!!![/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+    
+<name>                  [COLOR=blue]// listalmpc@gmail.com//[/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+
+</channel>
+
+
+</channels>
