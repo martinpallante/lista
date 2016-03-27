@@ -3,7 +3,7 @@
 
 </channel>
 <channel>
-<name>[COLOR=blue]// Lista LMPC //Actualizado// 26 Marzo 2016[/COLOR] </name>
+<name>[COLOR=blue]// Lista LMPC //Actualizado// 27 Marzo 2016[/COLOR] </name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </channel>
@@ -163,7 +163,8 @@ https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPOaDzD6V6YCoYjlLl1075FTIo
 
 <item><title>Historia</title><link>http://cdn.sstream.pw/live/historia_9dm8skt/playlist.m3u8|Referer=http://tv.verdirectotv.org/embed.php?c=103957&amp;width=650&amp;height=400&amp;autostart</link>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrUib024j8BITIUw1yu5myhqAnta_xULllcQlqz1vo1WZvjBTf</thumbnail>
-</item>
+</item>
+
 
 
 <item>
@@ -201,7 +202,7 @@ https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPOaDzD6V6YCoYjlLl1075FTIo
 <link>http://cdn.sstream.pw/live/tvb112/playlist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link><thumbnail></thumbnail>
 </item>	
 
-<item><title> Bein Sports España </title>
+<item><title> Bein Sports EspaÃ±a </title>
 <sportsdevil>http://cinestrenostv.tv/canales/emision/beinsport.html</sportsdevil>
 <referer>http://cinestrenostv.tv</referer><thumbnail></thumbnail>
 </item>
@@ -211,7 +212,8 @@ https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPOaDzD6V6YCoYjlLl1075FTIo
 <sportsdevil>http://soloveodeportes.co/espnmas.html</sportsdevil>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdTaDDdM8Ramweao64GX5fTTWxhWmp1NldvwMGBYQ_u9hiYHAXGQ</thumbnail>
 <referer>http://soloveodeportes.co</referer>
-</item>		
+</item>
+		
 
 
 <item>
@@ -222,7 +224,7 @@ https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPOaDzD6V6YCoYjlLl1075FTIo
 
 
 
-<item><title>Canal Fútbol</title><link>http://cdn.sstream.pw/live/tvb112/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=112&amp;width=650&amp;height=400&amp;autostart</link>
+<item><title>Canal FÃºtbol</title><link>http://cdn.sstream.pw/live/tvb112/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=112&amp;width=650&amp;height=400&amp;autostart</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRREgYeoH0PKG0XdFC4ke8hvfKPaggp-M4CbTlmhl3DNZAKCQ37ZQ</thumbnail>
 </item>
 
@@ -346,13 +348,17 @@ item><title>Formula 1 </title>
 			
 <item>
 <title>Deportes 9 //on-line//Principales eventos del dia </title>
-<link>$doregex[url]</link>
+<link>rtmp$doregex[rtmp] playpath=$doregex[id] swfUrl=http://cdn.boxlivetv.net/player-hd7.swf live=1 pageUrl=http://www.boxlivetv.net/player.php?chname=$doregex[id]&width=650&height=450</link>	
 <regex>
-<name>url</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72002',False,False,'http://vipracing.info/')</expres>
-<page></page>
+<name>rtmp</name>
+<expres>'rtmp(.*?)'</expres>
+<page>http://www.boxlivetv.net/player.php?chname=$doregex[id]</page>
 </regex>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfXbRyXNmWNqA5agaFSGyfKMzt-nqmJ_FgEDU5yGtaC9qbpHZ5</thumbnail>
+<regex>
+<name>id</name>
+<expres>chname="(.*?)"</expres>
+<page>http://www.pirlotvlive.com/reproductor/canal1.php</page>
+</regex>
 </item>
 
 
@@ -371,7 +377,7 @@ item><title>Formula 1 </title>
 
 <channel>
     
-<name>[COLOR=red]!!!Si el canal no responde probar 3 veces como mínimo!!![/COLOR]</name>
+<name>[COLOR=red]!!!Si el canal no responde probar 3 veces como mÃ­nimo!!![/COLOR]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </channel>
